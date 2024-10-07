@@ -1,0 +1,2 @@
+org.apache.shiro.spring.boot.ShiroJwtWebAutoConfiguration
+org.apache.shiro.spring.boot.ShiroJwtWebFilterConfiguration
